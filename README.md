@@ -6,12 +6,6 @@ https://user-images.githubusercontent.com/78139798/123645171-b8d04f00-d843-11eb-
 
 <br>
 
-## Live Demo
-
-To see the project in action, go to [http://avian-official.herokuapp.com/](http://avian-official.herokuapp.com/)
-
-<br>
-
 ## Getting Started
 
 ### Prerequisites
@@ -95,5 +89,4 @@ npm start
 ### Platforms
 
 * [git](https://git-scm.com/)
-* [heroku](https://www.heroku.com/)
 * [github](https://github.com/)
